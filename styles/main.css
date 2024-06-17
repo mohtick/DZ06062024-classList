@@ -13,7 +13,7 @@ main {
 	outline: none; 
 	appearance: none;
 	border-color:#767676;
-	animation-duration: 3s;
+	animation-duration: 1s;
 	animation-name: change_color;
 	animation-fill-mode: forwards;
 	
