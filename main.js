@@ -14,7 +14,7 @@ inpName.addEventListener('focus', () => {
 
 
 inpName.addEventListener('blur', () => {
-    inpName.value = "";
+    
     inpName.classList.remove('inpName_active');
 });
 
